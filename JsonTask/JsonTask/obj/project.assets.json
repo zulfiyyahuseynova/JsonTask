@@ -48,19 +48,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zulfiyya Huseynova\\.nuget\\packages\\": {}
+    "C:\\Users\\tu7kswf4d\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zulfiyya Huseynova\\Desktop\\New folder\\JsonTask\\JsonTask\\JsonTask.csproj",
+      "projectUniqueName": "C:\\Users\\tu7kswf4d\\Desktop\\JsonTask\\JsonTask\\JsonTask\\JsonTask.csproj",
       "projectName": "JsonTask",
-      "projectPath": "C:\\Users\\Zulfiyya Huseynova\\Desktop\\New folder\\JsonTask\\JsonTask\\JsonTask.csproj",
-      "packagesPath": "C:\\Users\\Zulfiyya Huseynova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zulfiyya Huseynova\\Desktop\\New folder\\JsonTask\\JsonTask\\obj\\",
+      "projectPath": "C:\\Users\\tu7kswf4d\\Desktop\\JsonTask\\JsonTask\\JsonTask\\JsonTask.csproj",
+      "packagesPath": "C:\\Users\\tu7kswf4d\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tu7kswf4d\\Desktop\\JsonTask\\JsonTask\\JsonTask\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Zulfiyya Huseynova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu7kswf4d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -106,7 +111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

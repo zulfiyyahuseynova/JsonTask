@@ -14,3 +14,19 @@ C:\Users\Zulfiyya Huseynova\Desktop\New folder\JsonTask\JsonTask\obj\Debug\netco
 C:\Users\Zulfiyya Huseynova\Desktop\New folder\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.dll
 C:\Users\Zulfiyya Huseynova\Desktop\New folder\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.pdb
 C:\Users\Zulfiyya Huseynova\Desktop\New folder\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.genruntimeconfig.cache
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\bin\Debug\netcoreapp3.1\JsonTask.exe
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\bin\Debug\netcoreapp3.1\JsonTask.deps.json
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\bin\Debug\netcoreapp3.1\JsonTask.runtimeconfig.json
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\bin\Debug\netcoreapp3.1\JsonTask.runtimeconfig.dev.json
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\bin\Debug\netcoreapp3.1\JsonTask.dll
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\bin\Debug\netcoreapp3.1\JsonTask.pdb
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.csproj.AssemblyReference.cache
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.AssemblyInfoInputs.cache
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.AssemblyInfo.cs
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.csproj.CoreCompileInputs.cache
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.csproj.CopyComplete
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.dll
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.pdb
+C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\obj\Debug\netcoreapp3.1\JsonTask.genruntimeconfig.cache

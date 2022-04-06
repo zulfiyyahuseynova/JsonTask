@@ -39,7 +39,7 @@ namespace JsonTask
             var jsonObj = JsonConvert.SerializeObject(order1);
             Console.WriteLine(jsonObj);
 
-            string filePath = @"C:\Users\Zulfiyya Huseynova\Desktop\New folder\JsonTask\JsonTask\Files\zulfiyya.json";
+            string filePath = @"C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\Files\zulfiyya.json";
             using (StreamWriter sw = new StreamWriter(filePath))
             {
                 sw.WriteLine(jsonObj);
@@ -47,16 +47,16 @@ namespace JsonTask
             #endregion
 
             #region Deserialize
-            //string result;
-            //using (StreamReader sr = new StreamReader(filePath))
-            //{
-            //    result = sr.ReadToEnd();
-            //}
-            //Order order = JsonConvert.DeserializeObject<Order>(result);
-            //foreach (var item in order.OrderItems)
-            //{
-            //    Console.WriteLine(item.Product.Name);
-            //}
+            string result;
+            using (StreamReader sr = new StreamReader(@"C:\Users\tu7kswf4d\Desktop\JsonTask\JsonTask\JsonTask\Files\guler.json"))
+            {
+                result = sr.ReadToEnd();
+            }
+            Order order = JsonConvert.DeserializeObject<Order>(result);
+            foreach (var item in order.OrderItems)
+            {
+                Console.WriteLine(item.Product.Name);
+            }
             #endregion
         }
     }
