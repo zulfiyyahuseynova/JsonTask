@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b47b/BA3aox1Nhm/ri0rtcTsITEwBOhuiSpR2shJgTCNh3rxhH+T0oEsiQd90UHKLFV2GMtzmOCn2HteEjbvjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zulfiyya Huseynova\\Desktop\\New folder\\JsonTask\\JsonTask\\JsonTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zulfiyya Huseynova\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
